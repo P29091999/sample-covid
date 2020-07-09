@@ -88,3 +88,4 @@ Heroku app is already configured to this repository for *automatic deploys* from
 
 * Johns Hopkins University: [CSSE](https://systems.jhu.edu/) 2019-ncov data repository, found [here](https://github.com/CSSEGISandData/COVID-19).
 * Our World in Data: [OWID](https://ourworldindata.org/) Github Data repository, found [here](https://github.com/owid/covid-19-data/tree/master/public/data).
+# sample-covid
